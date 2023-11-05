@@ -2,4 +2,4 @@
 
 select production_code
 from episodes
-where title = "Hackerized!";
+where title = 'Hackerized!';
